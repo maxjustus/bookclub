@@ -7,3 +7,5 @@ Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/03
 Processes](http://pragprog.com/book/jsunix/working-with-unix-processes)
 
 * [Working with TCP Sockets](http://workingwithtcpsockets.com/)
+
+* Coders at Work: Reflections on the Craft of Programming - Peter Seibel
