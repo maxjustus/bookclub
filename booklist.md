@@ -9,3 +9,5 @@ Processes](http://pragprog.com/book/jsunix/working-with-unix-processes)
 * [Working with TCP Sockets](http://workingwithtcpsockets.com/)
 
 * Coders at Work: Reflections on the Craft of Programming - Peter Seibel
+
+Refactoring: improving the design of existing code - Martin Fowler
